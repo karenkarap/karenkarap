@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi! I'm Karen.
 
-<!--
-**karenkarap/karenkarap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🚀 Junior Front-End Developer | React | Next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Frontend Developer with a solid foundation in React, TypeScript, HTML, CSS, JavaScript, responsive design, and version control (Git/GitHub). Currently expanding my skills with Node.js.
+
+## 🛠 Skills
+React | TypeScript | Next.js | JavaScript (ES6+) | HTML5 | CSS3 | Axios | Zustand | Responsive Design | Node.js (in progress)
+
+
+## Featured Projects
+
+
+#### [Rental Car](https://github.com/karenkarap/rental_car) - Solo Project:
+Developed a responsive and fully functional car rental catalog.
+Implemented complete app logic, routing, state management, and
+adaptive UI as a solo project. 
+- Demo: https://rental-car-tau-two.vercel.app/
+
+#### [Birdie](https://github.com/karenkarap/birdie) - Team Project:
+Built the diary page with full responsive layout and implemented infinite pagination logic.
+- Demo: https://birdie-kohl.vercel.app/
+
+#### [Booksy](https://github.com/karenkarap/development-hell-02) - Team Project:
+Built interactive modals for a book library project with adaptive design. Used Axios to fetch book data from a REST API and display details upon user clicks, gaining hands-on experience with client-server interaction and dynamic content rendering.
+- Demo: https://darkissdark.github.io/development-hell-02/
