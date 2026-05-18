@@ -3,10 +3,10 @@
 
 # 🚀 Junior Front-End Developer | React | Next
 
-Aspiring Frontend Developer with a solid foundation in React, TypeScript, HTML, CSS, JavaScript, responsive design, and version control (Git/GitHub). Currently expanding my skills with Node.js.
+Aspiring Frontend Developer with a solid foundation in React/Next, React Native/Expo, TypeScript, HTML, CSS, JavaScript, responsive design, and version control (Git/GitHub). Currently expanding my skills with Node.js.
 
 ## 🛠 Skills
-React | TypeScript | Next.js | JavaScript (ES6+) | HTML5 | CSS3 | Axios | Zustand | Responsive Design | Node.js (in progress)
+React |React Native | TypeScript | Next.js | Expo | JavaScript (ES6+) | HTML5 | CSS3 | Axios | Zustand | Responsive Design | Node.js (in progress)
 
 
 ## Featured Projects
