@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Karen.
+## 👋 Hi!
 
 
 # 🚀 Junior Front-End Developer | React | Next | React Native | Expo
